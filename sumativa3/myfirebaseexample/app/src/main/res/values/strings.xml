@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mi App Pc</string>
+    <string name="id_value">Identificador</string>
+    <string name="name_value">Nombre</string>
+    <string name="description_value">Descripcion</string>
+    <string name="cost_value">Precio</string>
+    <string name="brand_value">Marca</string>
+    <string name="button_load">Cargar</string>
+    <string name="button_save">Guardar</string>
+    <string name="id_hint">Ingrese el número del id</string>
+    <string name="name_hint">Modelo Del Pc</string>
+    <string name="description_hint">Descripcion del Pc</string>
+    <string name="cost_hint">Precio del Pc</string>
+    <string name="brand_hint">Marca del Pc</string>
+</resources>

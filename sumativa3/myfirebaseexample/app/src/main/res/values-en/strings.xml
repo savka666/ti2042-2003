@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My App Pc</string>
+    <string name="id_value">Id</string>
+    <string name="name_value">Name</string>
+    <string name="description_value">Description</string>
+    <string name="cost_value">Cost</string>
+    <string name="brand_value">Brand</string>
+    <string name="button_load">Load</string>
+    <string name="button_save">Save</string>
+    <string name="id_hint">Write the id number</string>
+    <string name="name_hint">Pc Model</string>
+    <string name="description_hint">Description Pc</string>
+    <string name="cost_hint">cost Pc</string>
+    <string name="brand_hint">Brand Pc</string>
+</resources>
